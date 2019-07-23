@@ -1,0 +1,10 @@
+body{
+    font-family: 'Open Sans', sans-serif;
+    font-size: 200%;
+    color: #130101;
+    background: url(../image/background.jpg) center top ;
+    
+}
+header{
+    text-align: center;
+}
